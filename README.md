@@ -48,3 +48,11 @@ meaningfully higher delay rates than morning flights.
 
 ## Tech Stack
 Python, pandas, scikit-learn, matplotlib, seaborn
+
+## Interactive App
+A Streamlit web app lets you input flight details and get a live delay 
+prediction from the trained model. Run locally:
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
