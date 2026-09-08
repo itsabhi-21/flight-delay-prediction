@@ -48,7 +48,3 @@ meaningfully higher delay rates than morning flights.
 
 ## Tech Stack
 Python, pandas, scikit-learn, matplotlib, seaborn
-
-## Notebook
-See [`Flight_Delay_Prediction.ipynb`](./Flight_Delay_Prediction.ipynb) for 
-full analysis with EDA visualizations and step-by-step reasoning.
